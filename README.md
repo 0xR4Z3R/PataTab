@@ -14,12 +14,14 @@ var keyData = {
 				}),
 				color: '#1abc9c'
 			},
+			///
 			w: {
 				sound: new Howl({
 		  		urls: ['sounds/clay.mp3']
 				}),
 				color: '#2ecc71'
 			},
+			//
 			e: {
 				sound: new Howl({
 		  		urls: ['sounds/confetti.mp3']
@@ -140,24 +142,28 @@ var keyData = {
 				}),
 				color: '#16a085'
 			},
+			//
 			v: {
 				sound: new Howl({
 		  		urls: ['sounds/veil.mp3']
 				}),
 				color: '#27ae60'
 			},
+			//
 			b: {
 				sound: new Howl({
 		  		urls: ['sounds/wipe.mp3']
 				}),
 				color: '#2980b9'
 			},
+			//
 			n: {
 				sound: new Howl({
 					urls: ['sounds/zig-zag.mp3']
 				}),
 				color: '#8e44ad'
 			},
+			//
 			m: {
 				sound: new Howl({
 		  		urls: ['sounds/moon.mp3']
