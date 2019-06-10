@@ -4,6 +4,10 @@ Ok This is my first commit to github
 Im going to explain javascript part in header.
 The HTML part is complicated hahaha
 
+This fun app on browser by clicking any key on keyboard you can see shape and hear sounf on browser
+
+Just Try it:))))))))))))))
+
 
 //first part of the inline javascript is dictionary for all keys on keyboard and we assign mp3 songs 
 //and color to it
